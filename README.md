@@ -67,10 +67,7 @@ Consider a model player with slow reaction time due to age or disability. How mi
 
 ## Question 5 Game Analysis (21 marks)
 
-Consider the game Tetris as shown in Figure 1 and playable here: [https://tetris.com/play-tetris](https://tetris.com/play-tetris).
-
-![A screenshot from Tetris](Images/Tetris.png)
-Figure 1: A screenshot from Tetris.
+Consider the game Tetris playable here: [https://tetris.com/play-tetris](https://tetris.com/play-tetris).
 
 Spend some time playing this game and familiarising yourself with how it works, before answering the following questions. (Note: there are many versions and clones of Tetris. These questions specifically relate to the linked version above.)
 
