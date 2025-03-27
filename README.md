@@ -82,7 +82,7 @@ Spend some time playing this game and familiarising yourself with how it works, 
     
     Assume none of the other game mechanics or parameters are changed.
 
-  Watch this video showing a play through of the game by an intermediate player.
+  Watch [this video](https://echo360.net.au/media/70fbe4e8-ffdc-4e6b-b338-fc10f953b4ff/public) showing a play through of the game by an intermediate player.
   
   The video displays a game dynamic in which the player has used the ‘Hold’ mechanic multiple times (e.g. at timetamps 1:05, 1:37, and 2:05) to hold onto a particular block and then release it later in the game. 
 
