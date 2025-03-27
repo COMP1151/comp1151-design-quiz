@@ -9,9 +9,19 @@ This assessment task is designed to assess the following unit learning outcomes:
 
 ---
 
+## Instructions
+
+* Edit this Markdown file (either directly in Github or using a text editor such as Visual Studio Code) to answer each of the questions in the space below the question. 
+* Commit and push your changes to the file back to your repository. You may make multiple commits before the deadline. Use the commit message "Final Submission" to identify your submission.
+
+---
+
 ## Question 1: MDA (3 marks)
 
 1.  List the three components of the MDA model and give a one sentence description of each.
+---
+
+*Answer Question 1 here.*
 
 ---
 
@@ -25,6 +35,10 @@ Based on the ten kinds of player experience described in lectures, name **two** 
 
 ---
 
+*Answer Q2 here.*
+
+---
+
 ## Question 3: Player Motivation (6 marks)
 
 A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports several different player motivations. Using concepts from the Self Determination Theory (SDT) and Player Experience of Needs Satisfaction (PENS) models described in lectures, write one sentence describing the motivations of three model players:
@@ -32,6 +46,10 @@ A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports sev
 1.  A player who enjoys socialising with friends on a multiplayer server.
 2.  A player who enjoys speedrunning the game to beat the final boss as quickly as possible.
 3.  A player who enjoys building beautiful architecture.
+
+---
+
+*Answer Q3 here.*
 
 ---
 
@@ -43,17 +61,21 @@ Consider a model player with slow reaction time due to age or disability. How mi
 
 ---
 
+*Answer Q4 here.*
+
+---
+
 ## Question 5 Game Analysis (21 marks)
 
 Consider the game Tetris as shown in Figure 1 and playable here: [https://tetris.com/play-tetris](https://tetris.com/play-tetris).
 
+![A screenshot from Tetris](Images/Tetris.png)
 Figure 1: A screenshot from Tetris.
 
 Spend some time playing this game and familiarising yourself with how it works, before answering the following questions. (Note: there are many versions and clones of Tetris. These questions specifically relate to the linked version above.)
 
 1.  In detail, describe the core mechanics that define the movement of a single block, including how it responds to player input. \[4 marks\]
-2.  What goals does the game set for the player (explicitly or implicitly) to motivate play?   
-    \[2 marks\]
+2.  What goals does the game set for the player (explicitly or implicitly) to motivate play? \[2 marks\]
 3.  What is the dramatic arc of the game? Identify two ways in which this is created. \[4 marks\]
 4.  In this version of Tetris, the play space is 10 blocks wide and 20 blocks tall.
     
@@ -63,7 +85,9 @@ Spend some time playing this game and familiarising yourself with how it works, 
     
     Assume none of the other game mechanics or parameters are changed.
 
-  This video shows a game dynamic in which the player has used the ‘Hold’ mechanic multiple times (e.g. at timetamps 1:05, 1:37, and 2:05) to hold onto a particular block and then release it later in the game. 
+  Watch this video showing a play through of the game by an intermediate player.
+  
+  The video displays a game dynamic in which the player has used the ‘Hold’ mechanic multiple times (e.g. at timetamps 1:05, 1:37, and 2:05) to hold onto a particular block and then release it later in the game. 
 
 5.  What game mechanics motivate this dynamic? \[2 marks\]
 6.  What kind of player experience does this dynamic create? \[2 marks\]
@@ -72,3 +96,8 @@ Spend some time playing this game and familiarising yourself with how it works, 
 
 7. Using flow theory, offer an explanation of this change in behaviour. What can you infer about the player's experience? \[3 marks\]
 
+---
+
+*Answer Q5 here.*
+
+---
