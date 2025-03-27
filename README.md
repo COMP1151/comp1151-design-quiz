@@ -41,10 +41,6 @@ Challenge-focused videogames such as [Celeste](https://store.steampowered.com/ap
 
 Consider a model player with slow reaction time due to age or disability. How might Assist Mode allow Celeste to fulfil each of the player’s basic psychological needs (as identified by Self Determination Theory)? Write 1-2 sentences addressing each.
 
-1.  Autonomy
-2.  Competence
-3.  Relatedness
-
 ---
 
 ## Question 5 Game Analysis (21 marks)
