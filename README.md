@@ -27,7 +27,7 @@ This assessment task is designed to assess the following unit learning outcomes:
 
 ## Question 2: Player Experience (6 marks)
 
-Based on the ten kinds of player experience described in lectures, name **two** kinds of experience that could be expected to arise in each of the following games. Give a one-sentence justification of each choice.
+Based on the ten kinds of player experience described in lectures, name **two** kinds of experience that could be expected to arise in each of the following games. Give a one-sentence justification for each experience type named.
 
 1.  An online puzzle game, such as [Wordle](https://www.nytimes.com/games/wordle/index.html) or [Sudoku](https://www.nytimes.com/puzzles/sudoku).
 2.  A survival horror game, such as [Five Nights at Freddy’s](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/) or [Dead Space](https://store.steampowered.com/app/1693980/Dead_Space/).
@@ -41,7 +41,7 @@ Based on the ten kinds of player experience described in lectures, name **two** 
 
 ## Question 3: Player Motivation (6 marks)
 
-A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports several different player motivations. Using concepts from the Self Determination Theory (SDT) and Player Experience of Needs Satisfaction (PENS) models described in lectures, write one sentence describing the motivations of three model players:
+A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports several different player motivations. Using concepts from the Self Determination Theory (SDT) and Player Experience of Needs Satisfaction (PENS) models described in lectures, identify the key motivation for each of the following three model players and how it is likely to be satisfied through their play (write one sentence for each):
 
 1.  A player who enjoys socialising with friends on a multiplayer server.
 2.  A player who enjoys speedrunning the game to beat the final boss as quickly as possible.
@@ -69,11 +69,11 @@ Consider a model player with slow reaction time due to age or disability. How mi
 
 Consider the game Tetris playable here: [https://tetris.com/play-tetris](https://tetris.com/play-tetris).
 
-Spend some time playing this game and familiarising yourself with how it works, before answering the following questions. (Note: there are many versions and clones of Tetris. These questions specifically relate to the linked version above.)
+Spend some time playing this game and familiarising yourself with how it works, before answering the following questions. (Note: there are many versions and clones of Tetris. These questions specifically relate to the version linked above.)
 
 1.  In detail, describe the core mechanics that define the movement of a single block, including how it responds to player input. \[4 marks\]
 2.  What goals does the game set for the player (explicitly or implicitly) to motivate play? \[2 marks\]
-3.  What is the dramatic arc of the game? Identify two ways in which this is created. \[4 marks\]
+3.  What is the overall dramatic arc of the game? Identify two ways in which this is created. \[4 marks\]
 4.  In this version of Tetris, the play space is 10 blocks wide and 20 blocks tall.
     
     In 2-3 sentences, discuss how the experience of the game would change if:
