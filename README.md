@@ -18,7 +18,7 @@ This assessment task is designed to assess the following unit learning outcomes:
 
 ## Question 1: MDA (3 marks)
 
-1.  List the three components of the MDA model and give a one sentence description of each.
+1.  List the three components of the MDA model. Using Tetris as an example, identify and describe each component.
 ---
 
 *Answer Question 1 here.*
@@ -41,7 +41,7 @@ Based on the ten kinds of player experience described in lectures, name **two** 
 
 ## Question 3: Player Motivation (6 marks)
 
-A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports several different player motivations. Using concepts from the Self Determination Theory (SDT) and Player Experience of Needs Satisfaction (PENS) models described in lectures, identify the key motivation for each of the following three model players and how it is likely to be satisfied through their play (write one sentence for each):
+A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports several different player motivations. Using concepts from the Self Determination Theory (SDT) and Player Experience of Needs Satisfaction (PENS) models described in lectures,, identify the key motivation for each of the following three model players  and how it is likely to be satisfied through their play (write one sentence for each):
 
 1.  A player who enjoys socialising with friends on a multiplayer server.
 2.  A player who enjoys speedrunning the game to beat the final boss as quickly as possible.
