@@ -16,7 +16,7 @@ This assessment task is designed to assess the following unit learning outcomes:
 
 ---
 
-## Question 1: Player Experience (6 marks)
+## Question 1: Player Experience (9 marks)
 
 Based on the ten kinds of player experience described in lectures, name **two** kinds of experience that could be expected to arise in each of the following games. Give a one-sentence justification for each experience type named.
 
@@ -56,14 +56,14 @@ Consider a model player with slow reaction time due to age or disability. How mi
 
 ---
 
-## Question 4 Game Analysis (24 marks)
+## Question 4 Game Analysis (29 marks)
 
 Consider the game Tetris playable here: [https://tetris.com/play-tetris](https://tetris.com/play-tetris).
 
 Spend some time playing this game and familiarising yourself with how it works, before answering the following questions. (Note: there are many versions and clones of Tetris. These questions specifically relate to the version linked above.)
 
-1.  List the three components of the MDA model. Using Tetris as an example, identify and describe each component. \[3 marks\]
-2.  In detail, describe the core mechanics that define the movement of a single block, including how it responds to player input. \[4 marks\]
+1.  List the three components of the MDA model. Using Tetris as an example, identify and describe each component. \[6 marks\]
+2.  In detail, describe the core mechanics that define the movement of a single block, including how it responds to player input. \[5 marks\]
 3.  What goals does the game set for the player (explicitly or implicitly) to motivate play? \[2 marks\]
 4.  What is the overall dramatic arc of the game? Identify two ways in which this is created. \[4 marks\]
 5.  In this version of Tetris, the play space is 10 blocks wide and 20 blocks tall.
@@ -78,7 +78,7 @@ Spend some time playing this game and familiarising yourself with how it works, 
   
   The video displays a game dynamic in which the player has used the ‘Hold’ mechanic multiple times (e.g. at timetamps 1:05, 1:37, and 2:05) to hold onto a particular block and then release it later in the game. 
 
-6.  What game mechanics motivate this dynamic? \[2 marks\]
+6.  What game mechanics motivate this dynamic? \[3 marks\]
 7.  What kind of player experience does this dynamic create? \[2 marks\]
 
    Towards the end of the video (from 7:54 onwards) the player's behaviour changes, leading to a dramatic change at 10:17.
