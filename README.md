@@ -16,77 +16,209 @@ This assessment task is designed to assess the following unit learning outcomes:
 
 ---
 
-## Question 1: Player Experience (9 marks)
+## Question 1: Core Concepts in Game Experience Design (10 marks)
 
-Based on the ten kinds of player experience described in lectures, name **two** kinds of experience that could be expected to arise in each of the following games. Give a one-sentence justification for each experience type named.
 
-1.  An online puzzle game, such as [Wordle](https://www.nytimes.com/games/wordle/index.html) or [Sudoku](https://www.nytimes.com/puzzles/sudoku).
-2.  A survival horror game, such as [Five Nights at Freddy’s](https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/) or [Dead Space](https://store.steampowered.com/app/1693980/Dead_Space/).
-3.  A role-playing game, such as [Baldur’s Gate 3](https://store.steampowered.com/app/1086940/Baldurs_Gate_3/) or [Cyberpunk 2077](https://store.steampowered.com/app/1091500/Cyberpunk_2077/).
-
----
-
-*Answer Q1 here.*
+### 1a. MDA (1 mark)
+Which of the following best describes a dynamic in the Mechanics-Dynamics-Aesthetics (MDA) framework?
+a.	The rules that define how the player can move
+b.	The emotional response a player feels during play
+c.	The patterns of behaviour that emerge as players interact with the system
+d.	The visual and audio presentation of the game
 
 ---
 
-## Question 2: Player Motivation (6 marks)
+*Answer Q1a here.*
 
-A sandbox game such as [Minecraft](https://www.minecraft.net/en-us) supports several different player motivations. Using concepts from the Self Determination Theory (SDT) and Player Experience of Needs Satisfaction (PENS) models described in lectures,, identify the key motivation for each of the following three model players  and how it is likely to be satisfied through their play (write one sentence for each):
-
-1.  A player who enjoys socialising with friends on a multiplayer server.
-2.  A player who enjoys speedrunning the game to beat the final boss as quickly as possible.
-3.  A player who enjoys building beautiful architecture.
 
 ---
 
-*Answer Q2 here.*
+
+### 1b. Toy vs Game (2 marks)
+In 1-2 sentences, explain one difference between a toy and a game in terms of player experience.
 
 ---
 
-## Question 3: Accessibility (6 marks)
+*Answer Q1b here.*
 
-Challenge-focused videogames such as [Celeste](https://store.steampowered.com/app/504230/Celeste/) can often exclude players who have different accessibility requirements, such as older players with slower reaction times. For these players Celeste provides an [Assist Mode](https://celeste.ink/wiki/Assist_Mode) which includes options such as: lowering the game speed, infinite stamina, dash assist, invincibility, and chapter skipping.
-
-Consider a model player with slow reaction time due to age or disability. How might Assist Mode allow Celeste to fulfil each of the player’s basic psychological needs (as identified by Self Determination Theory)? Write 1-2 sentences addressing each.
 
 ---
 
-*Answer Q3 here.*
+
+
+### 1c. Easy Fun and Hard Fun (3 marks)
+For each design feature below, indicate whether it is more closely associated with easy fun (discovery) or hard fun (mastery).
+  1.	Experimenting with movement without penalty
+  2.	Repeating a section to improve timing
+  3.	Learning mechanics through play rather than instruction
+
 
 ---
 
-## Question 4 Game Analysis (29 marks)
+*Answer Q1c here.*
 
-Consider the game Tetris playable here: [https://tetris.com/play-tetris](https://tetris.com/play-tetris).
+---
 
-Spend some time playing this game and familiarising yourself with how it works, before answering the following questions. (Note: there are many versions and clones of Tetris. These questions specifically relate to the version linked above.)
+### 1d. Challenge and Flow (2 marks)
+In 2-3 sentences, explain why difficulty is not a fixed property of a game, but depends on the player.
 
-1.  List the three components of the MDA model. Using Tetris as an example, identify and describe each component. \[6 marks\]
-2.  In detail, describe the core mechanics that define the movement of a single block, including how it responds to player input. \[5 marks\]
-3.  What goals does the game set for the player (explicitly or implicitly) to motivate play? \[2 marks\]
-4.  What is the overall dramatic arc of the game? Identify two ways in which this is created. \[4 marks\]
-5.  In this version of Tetris, the play space is 10 blocks wide and 20 blocks tall.
-    
-    In 2-3 sentences, discuss how the experience of the game would change if:
-    1.  You doubled the height of the space (i.e. 10 by 40). \[2 marks\]
-    2.  You doubled the width of the space (i.e. 20 by 20). \[2 marks\]
-    
-    Assume none of the other game mechanics or parameters are changed.
 
-  Watch [this video](https://echo360.net.au/media/70fbe4e8-ffdc-4e6b-b338-fc10f953b4ff/public) showing a play through of the game by an intermediate player.
+---
+
+*Answer Q1d here.*
+
+
+---
+
+
+### 1e. Accessibility and Difficulty (2 marks)
+Which of the following are examples of design choices that support accessibility without removing challenge? Select *two*.
+
+    a. Removing all failure states
+
+    b. Allowing players to adjust game speed
+
+    c. Adding optional challenges for experienced players
+
+    d. Providing clearer visual feedback
+
+    e. Automatically skipping all difficult sections
+
+---
+
+*Answer Q1e here.*
+
+
+---
+
+
+## Question 2: Challenge, Flow, and Difficulty (10 marks) 
+
+### 2a. Difficulty Attenuation (4 marks)
+Identify and describe two strategies for attenuating difficulty (2-3 sentences).
+
+---
+
+*Answer Q2a here.*
+
+
+---
+
+### 2b. Accessibility (3 marks)
+2b. How can difficulty attenuation support accessibility and diverse player experiences (2-3 sentences)? 
+
+---
+
+*Answer Q2b here.*
+
+
+---
+
+
+### 2c. Challenge and Flow (3 marks)
+How can game design decisions that shape challenge over time support or disrupt flow (3-4 sentences)?
+
+---
+
+*Answer Q2c here.*
+
+
+---
+
+## Question 3: Accessibility (30 marks)
+
+Play [Bubble Bees by Orisinal] (https://www.ferryhalim.com/orisinal/g2/bubble.htm)
+
+
+
+#### 3a. Mechanics Identification (6 marks)
+Identify three mechanics present in Bubble Bees and describe each mechanic (write 1-2 sentences for each mechanic).
+
+
+---
+
+*Answer Q3a here.*
+
+*Mechanic 1:*
+
+
+
+*Mechanic 2:*
+
+
+
+*Mechanic 3:*
+
+
+---
+
+
+### 3b. Dynamics and Scoring Outcomes (8 marks)
+Watch the following gameplay videos which show two different approaches to playing Bubble Bees:
+  * [Gameplay video 1](https://www.youtube.com/watch?v=KLgBDKb8XB4)
+  * [Gameplay video 2](https://www.youtube.com/watch?v=gu0MF7DlgKQ)
+
+#### 3bi. For each video, identify and describe the key dynamic(s) present during play, writing 1-2 sentences for each. [4 marks total]
+---
+
+*Answer Q3bi here.*
+
+*Gameplay Video 1:*
+
+
+
+
+*Gameplay Video 2:*
+
+
+---
+
+
+#### 3bii. Explain why the difference in dynamics result in higher scoring outcomes in one video than the other, focusing on how the game's mechanics make this possible (2-3 sentences). [4 marks]
+---
+
+*Answer Q3bii here.*
+
+
+---
+
+### 3c. Player Experience (Aesthetics) (6 marks)
+Using the Taxonomy of Fun discussed in the unit, identify:
+  *	one shared player experience - a player experience that could be felt in both gameplay videos. [1 mark]
   
-  The video displays a game dynamic in which the player has used the ‘Hold’ mechanic multiple times (e.g. at timetamps 1:05, 1:37, and 2:05) to hold onto a particular block and then release it later in the game. 
+  *	one unique player experience - a player experience likely to be felt in only one of the videos. [1 mark]
 
-6.  What game mechanics motivate this dynamic? \[3 marks\]
-7.  What kind of player experience does this dynamic create? \[2 marks\]
+In your answer:
+  *	explain how the shared player experience is supported by the mechanics of Bubble Bees (1-2 sentences). [2 marks]
 
-   Towards the end of the video (from 7:54 onwards) the player's behaviour changes, leading to a dramatic change at 10:17.
+  *	explain how the different dynamics present in the two videos contribute to the difference in player experience, focusing on the unique player experience you identified (1-2 sentences). [2 marks]
 
-8. Using flow theory, offer an explanation of this change in behaviour. What can you infer about the player's experience? \[3 marks\]
+You may refer to subtypes within the same experience category if appropriate.
 
 ---
 
-*Answer Q4 here.*
+*Answer Q3c here.*
+
+
+---
+
+### 3d. Design Change and Experience (10 marks)
+Identify one design change you could make to Bubble Bees that is specifically intended to increase or decrease support for one of the psychological needs of SDT.
+
+This change may either:
+  *	modify an existing game mechanic, or
+  *	introduce a new game mechanic.
+
+In your answer:
+  *	Clearly define the proposed change (2-3 sentences). [2 marks]
+  *	Explain how your chosen change would affect the support for that element of SDT (2-3 sentences). [4 marks]
+  *	Explain how this change would affect one player experience present within Bubble Bees (2-4 sentences). [4 marks]
+
+    *	Alternatively, if you believe the change would NOT affect the player experience, explain why this is the case, with reference to the player experiences that would remain unaffected (same length and marks apply).
+
+---
+
+*Answer Q3d here.*
+
 
 ---
