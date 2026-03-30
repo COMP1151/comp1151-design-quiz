@@ -59,7 +59,7 @@ For each design feature below, indicate whether it is more closely associated wi
 
 ---
 
-### 1d. Challenge and Flow (2 marks)
+### 1d. Challenge (2 marks)
 In 2-3 sentences, explain why difficulty is not a fixed property of a game, but depends on the player.
 
 
@@ -71,7 +71,7 @@ In 2-3 sentences, explain why difficulty is not a fixed property of a game, but 
 ---
 
 
-### 1e. Accessibility and Difficulty (2 marks)
+### 1e. Designing for Accessibility (2 marks)
 Which of the following are examples of design choices that support accessibility without removing challenge? Select *two*.
 
     a. Removing all failure states
@@ -92,7 +92,7 @@ Which of the following are examples of design choices that support accessibility
 ---
 
 
-## Question 2: Challenge, Flow, and Difficulty (10 marks) 
+## Question 2: Difficulty, Accessibility, Challenge and Flow (10 marks) 
 
 ### 2a. Difficulty Attenuation (4 marks)
 Identify and describe two strategies for attenuating difficulty (2-3 sentences).
