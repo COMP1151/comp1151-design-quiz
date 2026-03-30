@@ -131,7 +131,7 @@ Play [Bubble Bees by Orisinal] (https://www.ferryhalim.com/orisinal/g2/bubble.ht
 
 
 
-#### 3a. Mechanics Identification (6 marks)
+### 3a. Mechanics Identification (6 marks)
 Identify three mechanics present in Bubble Bees and describe each mechanic (write 1-2 sentences for each mechanic).
 
 
