@@ -125,7 +125,7 @@ How can game design decisions that shape challenge over time support or disrupt 
 
 ---
 
-## Question 3: Accessibility (30 marks)
+## Question 3: Analysing Bubble Bees (30 marks)
 
 Play [Bubble Bees by Orisinal] (https://www.ferryhalim.com/orisinal/g2/bubble.htm)
 
